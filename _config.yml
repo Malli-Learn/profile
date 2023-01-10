@@ -1,6 +1,13 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Mallikarjuna Jana </p>
+logo: /assets/img/Profile_Pic_latest.png
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/mallikarjuna-jana-1b43b47b/">LinkedIn</a> |
+  <a href="https://github.com/Malli-Learn">GitHub</a>
+  
+  <br>   
+  I'm working as Solutions architect and primary skill as mobility
+  I am well aware of Python and has basic knowledge in AI and ML
+  <br>
+  </p>
 theme: jekyll-theme-minimal
